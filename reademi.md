@@ -6,3 +6,10 @@
 # git branch -M main,
 # push -u origin main
 
+# git commit -m "commit update"
+# git status
+# git push
+
+//create- clone main branch
+# git checkout -b dev   
+# git push -u origin dev
