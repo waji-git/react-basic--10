@@ -17,3 +17,9 @@
 # git add . 
 # git commit -m "dev bra commit update"
 # git push 
+
+re connect main branch & update
+# git ceckout main
+# git pull
+
+# git merge dev - enter   shift : q  enter
