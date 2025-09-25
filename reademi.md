@@ -7,7 +7,7 @@
 # push -u origin main
 
 # git commit -m "commit update"
-# git status
+# git statusgit 
 # git push
 
 //create- clone main branch
@@ -18,8 +18,9 @@
 # git commit -m "dev bra commit update"
 # git push 
 
-re connect main branch & update
+//re connect main branch & update
 # git ceckout main
-# git pull
-
+# git pul
 # git merge dev - enter   shift : q  enter
+
+# git merge coomad not work
