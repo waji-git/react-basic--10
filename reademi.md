@@ -20,7 +20,7 @@
 
 //re connect main branch & update
 # git ceckout main
-# git pul
+# git pull
 # git merge dev - enter   shift : q  enter
 
 # git merge coomad not work
@@ -30,3 +30,7 @@
 # git fetch
 # git checkout main
 # git pull
+
+# main branch to dev branch data
+# chekout dev, merge dev branch
+
