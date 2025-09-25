@@ -27,6 +27,6 @@
 -bash
 # navigate between branches
 // check the changes between local & remote 
-git fetch
-git checkout main
-git pull
+# git fetch
+# git checkout main
+# git pull
