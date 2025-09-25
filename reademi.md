@@ -24,3 +24,9 @@
 # git merge dev - enter   shift : q  enter
 
 # git merge coomad not work
+-bash
+# navigate between branches
+// check the changes between local & remote 
+# git fetch
+# git checkout main
+# git pull
