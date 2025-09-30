@@ -1,13 +1,25 @@
 # this is for learning versin controler
+//install git graph- extencse -VS code
+ # git -v
+ # git init
+ # git status
+ 
+// add current folder
+ # git add . 
+
+ # git commit -m "commit update"
+ # git push 
+
 # step 2 create repostar
 # step test vertion control
-# git init 
+
+
 # git add . , git status, git commit-m "commit first", 
 # git branch -M main,
 # push -u origin main
 
 # git commit -m "commit update"
-# git statusgit 
+# git status 
 # git push
 
 //create- clone main branch
@@ -18,7 +30,7 @@
 # git commit -m "dev bra commit update"
 # git push 
 
-//re connect main branch & update
+//ater windows gui complet repstary  re connect main branch & update
 # git ceckout main
 # git pull
 # git merge dev - enter   shift : q  enter
@@ -33,4 +45,6 @@
 
 # main branch to dev branch data
 # chekout dev, merge dev branch
+
+# ssh key add
 
