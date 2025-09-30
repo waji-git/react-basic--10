@@ -47,4 +47,5 @@
 # chekout dev, merge dev branch
 
 # ssh key add
+# ssh key confirm setup
 
