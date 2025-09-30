@@ -48,4 +48,5 @@
 
 # ssh key add
 # ssh key confirm setup
+# key activate
 
