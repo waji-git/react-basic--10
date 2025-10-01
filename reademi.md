@@ -54,3 +54,9 @@
 # git merge methoda 2025-10-01
 # git add .,  git commit , git push
 # git checkout branch, git pull, git merge branch, git push
+
+//change from HTTPS to SSH
+# git remote set-url origin git@github.com:waji-git/react-git.git
+
+change from  SSH to https 
+git remote set-url origin https://github.com/waji-git/react-git.git
