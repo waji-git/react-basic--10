@@ -46,13 +46,11 @@
 # main branch to dev branch data
 # chekout dev, merge dev branch
 
-<<<<<<< HEAD
-# ssh key add 
-# ssh key test merge
-=======
 # ssh key add
 # ssh pending
 # ssh succespully
 # tset ssh 01-10-2025
->>>>>>> dev
 
+# git merge methoda 2025-10-01
+# git add .,  git commit , git push
+# git checkout branch, git pull, git merge branch, git push
