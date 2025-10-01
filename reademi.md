@@ -58,5 +58,7 @@
 //change from HTTPS to SSH
 # git remote set-url origin git@github.com:waji-git/react-git.git
 
-change from  SSH to https 
-git remote set-url origin https://github.com/waji-git/react-git.git
+//change from  SSH to https 
+# git remote set-url origin https://github.com/waji-git/react-git.git
+
+# sucess ssh 
